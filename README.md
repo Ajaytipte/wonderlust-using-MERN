@@ -206,8 +206,8 @@ Follow these steps to run the project locally on your machine:
 
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/Ananay-S/airbnb-clone-mern-stack.git
-cd airbnb-clone-mern-stack
+git clone https://github.com/Ajaytipte/wonderlust-using-MERN.git
+cd wonderlust-using-MERN
 
 # 2. Initialize the Local Database (installed MongoDB)
 cd init
