@@ -1,4 +1,4 @@
-# 🌍 Airbnb Clone - MERN Stack
+# 🌍 WonderLust - MERN Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
@@ -199,18 +199,6 @@ airbnb-clone/
 
 ---
 
-
-## 🌐 Hosted Version
-
-You can try out the deployed version of the project here:  
-🔗 `Vist Website :` [airbnb-clone-mern-stack.onrender.com](https://airbnb-clone-mern-stack.onrender.com)
-
- <img src="https://res.cloudinary.com/dsbsmaj3b/image/upload/v1746007099/airbnb-clone-mern-stack-qr-code_ftlei9.png" width="200" alt="airbnb-clone-mern-stack-qr-code.png" />
-
-> ⚠️ **Note:** This app is hosted on Render's free tier.  
-> It may take up to **1 minute** to load if the service has been inactive (cold start delay).
-
----
 
 ## ⚙️ Setup Instructions
 
