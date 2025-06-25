@@ -105,7 +105,7 @@ function Navbar () {
                             </form>
                         </div>
                         <div className="navbar-nav ms-auto">
-                            <a className="nav-link" onClick={handleAdd}>&nbsp; Airbnb your home &nbsp;</a>
+                            <a className="nav-link" onClick={handleAdd}>&nbsp; WonderLust your home &nbsp;</a>
                             <div className="dropdown">
                                 <a className="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     <FaBars/>
