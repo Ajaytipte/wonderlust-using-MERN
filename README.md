@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 
-A full-featured Airbnb-like platform built using the MERN stack. This project was developed as a proof of deep understanding of full-stack web development, including authentication, CRUD operations, RESTful APIs, state management, and coding practices.
+A full-featured platform built using the MERN stack. This project was developed as a proof of deep understanding of full-stack web development, including authentication, CRUD operations, RESTful APIs, state management, and coding practices.
 
 ---
 
